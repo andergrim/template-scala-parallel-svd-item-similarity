@@ -6,6 +6,14 @@ encoded using one-hot encoder. Algorithm uses SVD in order to reduce data
 dimensionality. Cosine similarity is now implemented but can be easily 
 extended to other similarity measures.
 
+## Versions
+
+### v0.0.6
+This version is adjusted to work with Apache PredictionIO (incubating) 0.10.0
+
+### v0.0.5
+
+
 ## Overview
 
 This template is a simple example of unsupervised learning algorithm 
